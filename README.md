@@ -15,10 +15,7 @@
 
 ## 🚀 Tecnologías utilizadas
 
-- Python (o especifica el lenguaje que estés usando)
-- Interfaz por consola / GUI con tkinter / Web (según corresponda)
-- (Opcional) Almacenamiento en archivo `.csv` o base de datos
-
+(por definir)
 ## 📦 Instalación
 
 1. Clona este repositorio:
