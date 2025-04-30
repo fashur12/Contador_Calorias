@@ -1,4 +1,3 @@
-Claro, aquí tienes una posible descripción para el archivo `README.md` de un proyecto llamado **Contador_Calorías**:
 
 ---
 
